@@ -1,0 +1,9 @@
+To execute: 
+1.-Format the external drive, and name it "_". 
+2.-Copy all the files AND directories inside this repository into the external drive. 
+3.-Check the "e.cmd" file, modify the file extension. 
+4.-Once conected to the windows computer, double click "exfil.vbs" to execute. (Nothing will appear on screen, that's how you know it works.)
+5.-Remove the external drive. You should have all the files with the extension. 
+
+Disclaimer: The use of this tool is your own responsability. I'm not responsable in any way. 
+Credits to Hak5 as I used code from them.  
